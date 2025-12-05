@@ -14,3 +14,9 @@
 # git branch -M main
 # git remote add origin git@github.com:whitewolf031/Mutaxasisilik_bakcned-08-25.git
 # git push origin main
+
+# github username 
+# git config --global user.name
+
+# github email
+# git config --global user.email
